@@ -1,0 +1,27 @@
+
+server:
+  port: 8081
+spring:
+  profiles:
+    active: after_route
+
+---
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: after_route
+          uri: http://httpbin.org:80/get
+          filters:
+            #- AddRequestHeader=X-Request-Foo, Bar #AddRequestHeader GatewayFilter Factory
+            - RequestTime=false #自定义的过滤工厂
+            #- RewritePath=/foo/(?<segment>.*), /$\{segment} #RewritePath GatewayFilter Factory
+          predicates:
+            - After=2019-01-20T17:42:47.789-07:00[America/Denver] #After Route Predicate Factory 在此时间之后的请求才允许路由
+            #- Header=X-Request-Id, \d+ #Header Route Predicate Factory header包含 X-Request-Id： int 整数...
+            #- Cookie=name, forezp #Cookie Route Predicate Factory 包含 cookie
+            #- Host=**.fangzhipeng.com #Host Route Predicate Factory 包含.fangzhipeng.com
+            #- Method=GET #Method Route Predicate Factory get请求方式
+            #- Path=/foo/{segment} #Path Route Predicate Factory 符合/foo/*
+            #- Query=foo, ba. #Query Route Predicate Factory  foo=bar
+  profiles: after_route

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70962db3-8799-4889-91d4-a4b734036307" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="150" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Umezape77ZSTckK1iT072ap3pa" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zbf.servicezuul" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zbf.servicelucy.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\GitHub\springclouddemo\config-client\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceGatewayApplication">
+    <configuration name="ServiceRibbonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zbf.serviceribbon.ServiceRibbonApplication" />
+      <module name="service-ribbon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zbf.serviceribbon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.configclient.ConfigClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.eurekaclient.EurekaClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.eurekaserver.EurekaServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScFGatewayFirstSightApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sc-f-gateway-first-sight" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.scfgatewayfirstsight.ScFGatewayFirstSightApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScFGatewayLimiterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sc-f-gateway-limiter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.scfgatewaylimiter.ScFGatewayLimiterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.servicefeign.ServiceFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.servicegateway.ServiceGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceHiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-hi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.servicehi.ServiceHiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceLucyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-lucy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.servicelucy.ServiceLucyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMiyaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-miya" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.servicemiya.ServiceMiyaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.serviceribbon.ServiceRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.serviceturbine.ServiceTurbineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbf.servicezuul.ServiceZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ServiceRibbonApplication" />
+      <item itemvalue="Spring Boot.EurekaClientApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.ServiceFeignApplication" />
+      <item itemvalue="Spring Boot.ServiceRibbonApplication" />
+      <item itemvalue="Spring Boot.ServiceZuulApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
+      <item itemvalue="Spring Boot.ServiceMiyaApplication" />
+      <item itemvalue="Spring Boot.ServiceHiApplication" />
+      <item itemvalue="Spring Boot.ServiceLucyApplication" />
+      <item itemvalue="Spring Boot.ServiceTurbineApplication" />
+      <item itemvalue="Spring Boot.ScFGatewayFirstSightApplication" />
+      <item itemvalue="Spring Boot.ScFGatewayLimiterApplication" />
+      <item itemvalue="Spring Boot.ServiceGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServiceRibbonApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70962db3-8799-4889-91d4-a4b734036307" name="Default Changelist" comment="" />
+      <created>1575966460199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575966460199</updated>
+      <workItem from="1575966462565" duration="4674000" />
+      <workItem from="1576025845537" duration="11116000" />
+      <workItem from="1576118142737" duration="14165000" />
+      <workItem from="1576140261375" duration="3783000" />
+      <workItem from="1576199476522" duration="11944000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service-miya/src/main/java/com/zbf/servicemiya/ServiceMiyaApplication.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service-miya/src/main/java/com/zbf/servicemiya/ServiceMiyaApplication.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springclouddemo$EurekaServerApplication.ic" NAME="EurekaServerApplication Coverage Results" MODIFIED="1576133026207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
