@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70962db3-8799-4889-91d4-a4b734036307" name="Default Changelist" comment="" />
+    <list default="true" id="70962db3-8799-4889-91d4-a4b734036307" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/spring-boot-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-admin/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,7 +291,7 @@
       <workItem from="1576222442921" duration="1835000" />
       <workItem from="1576224320407" duration="4413000" />
       <workItem from="1576230307589" duration="493000" />
-      <workItem from="1576286650591" duration="4679000" />
+      <workItem from="1576286650591" duration="4972000" />
     </task>
     <servers />
   </component>
