@@ -19,6 +19,8 @@
         <option value="$PROJECT_DIR$/sc-f-gateway-first-sight/pom.xml" />
         <option value="$PROJECT_DIR$/sc-f-gateway-limiter/pom.xml" />
         <option value="$PROJECT_DIR$/service-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin-client/pom.xml" />
       </list>
     </option>
   </component>

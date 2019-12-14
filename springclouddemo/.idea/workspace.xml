@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70962db3-8799-4889-91d4-a4b734036307" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/springclouddemo.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="70962db3-8799-4889-91d4-a4b734036307" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +30,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Umezape77ZSTckK1iT072ap3pa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -70,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaClientApplication">
+  <component name="RunManager" selected="Spring Boot.SpringBootAdminApplication">
     <configuration name="ServiceRibbonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zbf.serviceribbon.ServiceRibbonApplication" />
       <module name="service-ribbon" />
@@ -232,6 +232,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBootAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootadmin.SpringBootAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootAdminClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-admin-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootadminclient.SpringBootAdminClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ServiceRibbonApplication" />
       <item itemvalue="Spring Boot.EurekaClientApplication" />
@@ -248,6 +262,8 @@
       <item itemvalue="Spring Boot.ScFGatewayFirstSightApplication" />
       <item itemvalue="Spring Boot.ScFGatewayLimiterApplication" />
       <item itemvalue="Spring Boot.ServiceGatewayApplication" />
+      <item itemvalue="Spring Boot.SpringBootAdminApplication" />
+      <item itemvalue="Spring Boot.SpringBootAdminClientApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -270,7 +286,10 @@
       <workItem from="1576118142737" duration="14165000" />
       <workItem from="1576140261375" duration="3783000" />
       <workItem from="1576199476522" duration="11944000" />
-      <workItem from="1576222442921" duration="213000" />
+      <workItem from="1576222442921" duration="1835000" />
+      <workItem from="1576224320407" duration="4413000" />
+      <workItem from="1576230307589" duration="493000" />
+      <workItem from="1576286650591" duration="4679000" />
     </task>
     <servers />
   </component>
@@ -282,7 +301,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -14,12 +14,14 @@
         <module name="service-hi" />
         <module name="eureka-client" />
         <module name="sc-f-gateway-limiter" />
+        <module name="spring-boot-admin" />
         <module name="service-zuul" />
         <module name="service-ribbon" />
         <module name="service-turbine" />
         <module name="service-gateway" />
         <module name="eureka-server" />
         <module name="sc-f-gateway-first-sight" />
+        <module name="spring-boot-admin-client" />
       </profile>
     </annotationProcessing>
   </component>
@@ -39,6 +41,8 @@
       <module name="service-ribbon" options="-parameters" />
       <module name="service-turbine" options="-parameters" />
       <module name="service-zuul" options="-parameters" />
+      <module name="spring-boot-admin" options="-parameters" />
+      <module name="spring-boot-admin-client" options="-parameters" />
     </option>
   </component>
 </project>
