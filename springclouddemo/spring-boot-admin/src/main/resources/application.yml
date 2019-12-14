@@ -30,7 +30,7 @@ management:
 
 
 spring.mail.host: smtp.qq.com
-spring.mail.username: 1778708741@qq.com
+spring.mail.username:
 spring.mail.password: #pbqhvslcexgudedi
 spring.boot.admin.notify.mail.to: 1121665620@qq.com
-spring.boot.admin.notify.mail.from: 1778708741@qq.com
+spring.boot.admin.notify.mail.from: 
